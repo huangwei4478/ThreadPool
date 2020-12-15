@@ -22,6 +22,6 @@ pool.execute(|| {
     - each thread has its own infinite loop, looping for message to come;
     - all threads would come to an end while received with a 'end' message;
   
-![screenshot.png](./screenshot.png)
+![screenshot.png](https://i.loli.net/2020/12/15/PwXxcloUVZjGTKM.png)
 
 
